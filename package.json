@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@genesys/apps-v2-host": "^0.0.3",
+    "@genesys/apps-v2-host": "^1.0.0-beta.8",
     "@genesys/apps-v2-host-layout": "^1.0.0-beta.8",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -16,7 +16,8 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "genesys-spark-components-react": "^3.107.0"
   },
   "scripts": {
     "start": "react-scripts start",
